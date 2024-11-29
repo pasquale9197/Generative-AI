@@ -159,6 +159,6 @@ For questions or collaboration, feel free to contact me:
 
 Pasquale Molinaro
 
-📩 Email: pasqualemolinaro97@gmail.comù
+📩 Email: pasqualemolinaro97@gmail.com
 
 🔗 LinkedIn: [Pasquale Molinaro](https://www.linkedin.com/in/pasquale-molinaro-8654021aa/)
