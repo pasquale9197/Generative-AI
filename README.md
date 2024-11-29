@@ -123,29 +123,29 @@ export OPENAI_API_KEY='your-api-key-here'
 The models have shown the following performance in the PPE detection task:
 
 * YOLOv8:
-* * Accuracy: Over 80% after fine-tuning.
-* * Pros: Real-time detection capabilities.
-* * Cons: Requires fine-tuning and significant computational resources.
+  * Accuracy: Over 80% after fine-tuning.
+  * Pros: Real-time detection capabilities.
+  * Cons: Requires fine-tuning and significant computational resources.
 
 * Phi-3.5 Vision Instruction:
-* * Accuracy: High accuracy without fine-tuning.
-* * Pros: Strong out-of-the-box performance.
-* * Cons: Large model size requires substantial memory.
+  * Accuracy: High accuracy without fine-tuning.
+  * Pros: Strong out-of-the-box performance.
+  * Cons: Large model size requires substantial memory.
 
 * Molmo-7B-0-0924 VisionLM:
-* * Accuracy: Excellent without fine-tuning.
-* * Pros: Memory-efficient execution.
-* * Cons: May need hardware supporting bfloat16 precision.
+  * Accuracy: Excellent without fine-tuning.
+  * Pros: Memory-efficient execution.
+  * Cons: May need hardware supporting bfloat16 precision.
 
 * LLaVA-1.6-Mistral:
-* * Accuracy: High accuracy without fine-tuning.
-* * Pros: Computationally efficient.
-* * Cons: May not perform as well on complex images.
+  * Accuracy: High accuracy without fine-tuning.
+  * Pros: Computationally efficient.
+  * Cons: May not perform as well on complex images.
 
 * GPT-4o and GPT-4o-mini:
-* * Accuracy: Exceptional, surpassing other models.
-* * Pros: No need for local computational resources.
-* * Cons: Requires OpenAI API access; potential costs.
+  * Accuracy: Exceptional, surpassing other models.
+  * Pros: No need for local computational resources.
+  * Cons: Requires OpenAI API access; potential costs.
 
 ## Conclusion
 This project demonstrates that advanced Vision Language Models can effectively detect PPE in images without the need for extensive fine-tuning or specialized hardware. Models like GPT-4 show exceptional performance but come with considerations such as API access and usage costs.
@@ -159,5 +159,6 @@ For questions or collaboration, feel free to contact me:
 
 Pasquale Molinaro
 
-📩 Email: pasqualemolinaro97@gmail.com
+📩 Email: pasqualemolinaro97@gmail.comù
+
 🔗 LinkedIn: [Pasquale Molinaro](https://www.linkedin.com/in/pasquale-molinaro-8654021aa/)
